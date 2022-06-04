@@ -1,0 +1,1 @@
+让Ranger支持中文描述显示和保存，match 为相关Ranger地址
